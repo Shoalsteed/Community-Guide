@@ -1,7 +1,7 @@
 
  **I2P Network Security for Participants and Admins**
  
- **Topics**
+ **Index**
  
  1. History
  1. I2P Java Overview
